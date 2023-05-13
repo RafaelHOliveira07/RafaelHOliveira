@@ -1,4 +1,5 @@
-##Seja bem vindo ao meu Git Hub!
+##Seja bem vindo ao meu Git Hub!,Me chamo Rafael Henrique de Oliveira tenho 22 anos, sou apaixonado por tecnologia e estou no começo da minha jornada no mundo da programação e pretendo seguir carreira como dev Front-end ja que amo html e css!
+Me formei como Técnico de Imformatica pela Etec João Maria Stevannato em Itapira-SP, e agora estou cursando faculda Fatec Orgari de Castro também em Itapira-SP
 
 <div>
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaelHOliveira07&show_icons=true&theme=tokyonight"/>
