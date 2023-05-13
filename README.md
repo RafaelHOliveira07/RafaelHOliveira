@@ -1,9 +1,9 @@
 ##Seja bem vindo ao meu Git Hub!
 
 <div>
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelHOliveira07&show_icons=true&theme=tokyonight"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=RafaelHOliveira07&show_icons=true&theme=tokyonight"/>
 
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHOliveira07&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHOliveira07&layout=compact&langs_count=16&theme=tokyonight"/>
   
 </div>
 <br>
