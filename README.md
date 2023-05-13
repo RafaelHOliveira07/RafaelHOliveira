@@ -9,6 +9,7 @@
 <br>
 
 <div  align="center"> 
+  <br>
   <div style="display: inline_block"><br>
     <img align="center" height="200px" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
